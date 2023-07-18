@@ -19,6 +19,7 @@ Here I am adding Images for Demo Purpose.
   1.SignUp page
   <br/>
   <br/>
+
 ![Screenshot (53)](https://github.com/ashvin232002/LinkArchieve/assets/120255875/bcf4f1ff-1e36-47d5-aa19-215b4f745e21)
 
  2.Login Page
