@@ -22,7 +22,7 @@ app.use(cookieParser());
 
 app.use(
     cors({
-        origin:"http://localhost:3000",
+        origin:"https://linkarchievebackend.onrender.com/api/v1",
         credentials:true,
     })
 )
